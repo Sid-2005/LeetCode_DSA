@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class Solution1{
     public int[] twoSum(int[] nums, int target) {
 
         HashMap<Integer,Integer> map = new HashMap<> ();
@@ -24,7 +24,7 @@ class Solution {
 
 /*
 
-Brute Force Approach
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
 
