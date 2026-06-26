@@ -1,0 +1,22 @@
+# 🚀 LeetCode DSA in Java
+
+This repository tracks my daily progress in mastering Data Structures and Algorithms (DSA) through LeetCode. 
+The focus here is on writing clean, efficient, and optimized solutions using Core Java, building the foundational logic needed for robust backend development.
+
+## 🗂️ Repository Structure
+
+All solutions are implemented in Java. Below is the current list of solved problems, categorized by the core algorithmic pattern used to solve them.
+
+| # | Problem | Pattern / Concept Used | Difficulty | File |
+|:---:|:---|:---|:---:|:---|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays, HashMap | 🟢 Easy | `1_Two_Sum.java` |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays, HashSet | 🟢 Easy | `217_Contain_Duplicate.java` |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Two Pointers, In-Place Manipulation | 🟢 Easy | `344_Reverse_String.java` |
+
+## 🧠 Core Patterns Being Mastered
+Currently focusing on mastering these foundational patterns:
+- **HashMaps & HashSets:** Trading memory for speed to drop $O(n^2)$ time complexity down to $O(n)$.
+- **Two Pointers:** Manipulating arrays in-place from both ends to achieve $O(1)$ extra space complexity.
+
+
+
