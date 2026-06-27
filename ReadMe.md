@@ -10,6 +10,7 @@ All solutions are implemented in Java. Below is the current list of solved probl
 | # | Problem | Pattern / Concept Used | Difficulty | File |
 |:---:|:---|:---|:---:|:---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays, HashMap | 🟢 Easy | `1_Two_Sum.java` |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Arrays, HashMap | 🟢 Easy | `169_Majority_Element.java` |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays, HashSet | 🟢 Easy | `217_Contain_Duplicate.java` |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Two Pointers, In-Place Manipulation | 🟢 Easy | `344_Reverse_String.java` |
 
@@ -17,6 +18,3 @@ All solutions are implemented in Java. Below is the current list of solved probl
 Currently focusing on mastering these foundational patterns:
 - **HashMaps & HashSets:** Trading memory for speed to drop $O(n^2)$ time complexity down to $O(n)$.
 - **Two Pointers:** Manipulating arrays in-place from both ends to achieve $O(1)$ extra space complexity.
-
-
-
