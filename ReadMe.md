@@ -16,6 +16,7 @@ All solutions are implemented in Java. Below is the current list of solved probl
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Arrays, HashMap | 🟢 Easy | `169_Majority_Element.java` |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays, HashSet | 🟢 Easy | `217_Contain_Duplicate.java` |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Arrays, Math | 🟢 Easy | `268_Missing_Number.java` |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays, Two Pointers | 🟢 Easy | `283_Move_Zeroes.java` |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Two Pointers, In-Place Manipulation | 🟢 Easy | `344_Reverse_String.java` |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Arrays, Prefix Sum | 🟢 Easy | `1480_Running_Sum_of_1d_Array.java` |
 
