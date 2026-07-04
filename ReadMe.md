@@ -5,23 +5,40 @@ The focus here is on writing clean, efficient, and optimized solutions using Cor
 
 ## 🗂️ Repository Structure
 
-All solutions are implemented in Java. Below is the current list of solved problems, categorized by the core algorithmic pattern used to solve them.
+All solutions are implemented in Java and organized into folders by algorithmic pattern under `src/`.
 
+### 📁 `src/arrays_and_hashings/`
 | # | Problem | Pattern / Concept Used | Difficulty | File |
 |:---:|:---|:---|:---:|:---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays, HashMap | 🟢 Easy | `1_Two_Sum.java` |
-| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Arrays, Two Pointers (Reader/Writer) | 🟢 Easy | `27_Remove_Element.java` |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Arrays, HashMap | 🟢 Easy | `136_Single_Number.java` |
-| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Arrays, Two Pointers | 🟡 Medium | `167_Two_Sum_II.java` |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Arrays, HashMap | 🟢 Easy | `169_Majority_Element.java` |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays, HashSet | 🟢 Easy | `217_Contain_Duplicate.java` |
-| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Arrays, Math | 🟢 Easy | `268_Missing_Number.java` |
-| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays, Two Pointers | 🟢 Easy | `283_Move_Zeroes.java` |
+
+### 📁 `src/two_pointers/`
+| # | Problem | Pattern / Concept Used | Difficulty | File |
+|:---:|:---|:---|:---:|:---|
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Arrays, Two Pointers (Reader/Writer) | 🟢 Easy | `27_Remove_Element.java` |
+| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Arrays, Two Pointers | 🟡 Medium | `167_Two_Sum_II_Input_Array_Sorted.java` |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays, Two Pointers | 🟢 Easy | `283_Moves_Zeros.java` |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Two Pointers, In-Place Manipulation | 🟢 Easy | `344_Reverse_String.java` |
-| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Sliding Window (Fixed) | 🟢 Easy | `643_Max_Avg_Subarray_I.java` |
-| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Two Pointers (Reverse) | 🟢 Easy | `844_Backspace_String_Compare.java` |
-| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Arrays, Two Pointers | 🟢 Easy | `977_Squares_of_a_Sorted_Array.java` |
-| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Arrays, Prefix Sum | 🟢 Easy | `1480_Running_Sum_of_1d_Array.java` |
+| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Two Pointers (Reverse) | 🟢 Easy | `844_Backspace_string_compare.java` |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Arrays, Two Pointers | 🟢 Easy | `977_Squares_of_sorted_Array.java` |
+
+### 📁 `src/sliding_window/`
+| # | Problem | Pattern / Concept Used | Difficulty | File |
+|:---:|:---|:---|:---:|:---|
+| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Sliding Window (Fixed) | 🟢 Easy | `643_Maximum_Avg_SubArray_1.java` |
+
+### 📁 `src/prefix_sum/`
+| # | Problem | Pattern / Concept Used | Difficulty | File |
+|:---:|:---|:---|:---:|:---|
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Arrays, Prefix Sum | 🟢 Easy | `1480_Runnning_Sum_of_1d_Array.java` |
+
+### 📁 `src/math/`
+| # | Problem | Pattern / Concept Used | Difficulty | File |
+|:---:|:---|:---|:---:|:---|
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Arrays, Math | 🟢 Easy | `268_Missing_Number.java` |
 
 ## 🧠 Core Patterns Being Mastered
 Currently focusing on mastering these foundational patterns:
