@@ -18,6 +18,7 @@ All solutions are implemented in Java. Below is the current list of solved probl
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Arrays, Math | 🟢 Easy | `268_Missing_Number.java` |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays, Two Pointers | 🟢 Easy | `283_Move_Zeroes.java` |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Two Pointers, In-Place Manipulation | 🟢 Easy | `344_Reverse_String.java` |
+| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Sliding Window (Fixed) | 🟢 Easy | `643_Max_Avg_Subarray_I.java` |
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Two Pointers (Reverse) | 🟢 Easy | `844_Backspace_String_Compare.java` |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Arrays, Two Pointers | 🟢 Easy | `977_Squares_of_a_Sorted_Array.java` |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Arrays, Prefix Sum | 🟢 Easy | `1480_Running_Sum_of_1d_Array.java` |
@@ -26,5 +27,6 @@ All solutions are implemented in Java. Below is the current list of solved probl
 Currently focusing on mastering these foundational patterns:
 - **HashMaps & HashSets:** Trading memory for speed to drop O(n²) time complexity down to O(n).
 - **Two Pointers:** Manipulating arrays in-place from both ends to achieve O(1) extra space complexity.
-- **Math & Arithmetic Sequences:** Leveraging mathematical formulas (like the sum of the first n natural numbers) to optimize spatial complexity to O(1).
-- **Prefix Sums:** Maintaining a running cumulative total to avoid recalculating overlapping elements. (Optimized to O(1) extra space by modifying the input arrays in-place).
+- **Sliding Window:** Maintaining a dynamic or fixed-size window over a sequential data structure to optimize redundant calculations down to O(n).
+- **Math & Arithmetic Sequences:** Leveraging mathematical formulas to optimize spatial complexity to O(1).
+- **Prefix Sums:** Maintaining a running cumulative total to avoid recalculating overlapping elements.
