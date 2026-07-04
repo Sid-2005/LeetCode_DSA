@@ -40,6 +40,11 @@ All solutions are implemented in Java and organized into folders by algorithmic 
 |:---:|:---|:---|:---:|:---|
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Arrays, Math | 🟢 Easy | `268_Missing_Number.java` |
 
+### 📁 `src/binary_search/`
+| # | Problem | Pattern / Concept Used | Difficulty | File |
+|:---:|:---|:---|:---:|:---|
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Binary Search | 🟢 Easy | `704_Binary_Search.java` |
+
 ## 🧠 Core Patterns Being Mastered
 Currently focusing on mastering these foundational patterns:
 - **HashMaps & HashSets:** Trading memory for speed to drop O(n²) time complexity down to O(n).
@@ -47,3 +52,4 @@ Currently focusing on mastering these foundational patterns:
 - **Sliding Window:** Maintaining a dynamic or fixed-size window over a sequential data structure to optimize redundant calculations down to O(n).
 - **Math & Arithmetic Sequences:** Leveraging mathematical formulas to optimize spatial complexity to O(1).
 - **Prefix Sums:** Maintaining a running cumulative total to avoid recalculating overlapping elements.
+- **Binary Search:** Repeatedly halving the search space on sorted data to cut time complexity down to O(log n).
