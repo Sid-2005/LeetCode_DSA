@@ -33,6 +33,7 @@ All solutions are implemented in Java and organized into folders by algorithmic 
 ### 📁 `src/prefix_sum/`
 | # | Problem | Pattern / Concept Used | Difficulty | File |
 |:---:|:---|:---|:---:|:---|
+| 238 | [Product of Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Prefix & Suffix Product (Two Pass) | 🟡 Medium | `238_Product_Except_Self.java` |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Arrays, Prefix Sum | 🟢 Easy | `1480_Runnning_Sum_of_1d_Array.java` |
 
 ### 📁 `src/math/`
