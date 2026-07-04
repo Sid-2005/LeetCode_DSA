@@ -22,9 +22,9 @@ All solutions are implemented in Java and organized into folders by algorithmic 
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Arrays, Two Pointers | 🟡 Medium | `167_Two_Sum_II_Input_Array_Sorted.java` |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays, Two Pointers | 🟢 Easy | `283_Moves_Zeros.java` |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Two Pointers, In-Place Manipulation | 🟢 Easy | `344_Reverse_String.java` |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Strings, Two Pointers | 🟢 Easy | `392_Is_Subsequence.java` |
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Two Pointers (Reverse) | 🟢 Easy | `844_Backspace_string_compare.java` |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Arrays, Two Pointers | 🟢 Easy | `977_Squares_of_sorted_Array.java` |
-
 ### 📁 `src/sliding_window/`
 | # | Problem | Pattern / Concept Used | Difficulty | File |
 |:---:|:---|:---|:---:|:---|
