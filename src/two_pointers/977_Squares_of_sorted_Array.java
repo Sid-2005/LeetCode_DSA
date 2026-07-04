@@ -1,3 +1,12 @@
+/**
+ * Problem: 977. Squares of a Sorted Array
+ * Approach: Two Pointers (Opposite Ends)
+ * Time Complexity: O(N) - We compare elements and fill the result array in one pass.
+ * Space Complexity: O(N) - We are required to create a new array to store the result.
+ */
+
+package two_pointers;
+
 class Solution_977 {
     public int[] sortedSquares(int[] nums) {
 

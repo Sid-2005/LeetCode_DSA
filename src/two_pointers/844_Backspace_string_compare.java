@@ -1,3 +1,12 @@
+/**
+ * Problem: 844. Backspace String Compare
+ * Approach: Reverse Two Pointers
+ * Time Complexity: O(N + M) - Where N and M are the lengths of strings s and t.
+ * Space Complexity: O(1) - Strings are evaluated backwards without using a Stack.
+ */
+
+package two_pointers;
+
 class Solution_844{
     public boolean backspaceCompare(String s, String t) {
 

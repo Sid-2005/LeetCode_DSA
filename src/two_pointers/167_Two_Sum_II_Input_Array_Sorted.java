@@ -1,3 +1,12 @@
+/**
+ * Problem: 167. Two Sum II - Input Array Is Sorted
+ * Approach: Two Pointers (Opposite Ends)
+ * Time Complexity: O(N) - We shrink the search space from both ends, taking at most N steps.
+ * Space Complexity: O(1) - Pointers evaluate the array in-place.
+ */
+
+package two_pointers;
+
 class Solution_167 {
     public int[] twoSum(int[] nums, int target) {
 

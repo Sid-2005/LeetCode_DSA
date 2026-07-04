@@ -1,3 +1,12 @@
+/**
+ * Problem: 1. Two Sum
+ * Approach: One-Pass HashMap
+ * Time Complexity: O(N) - We traverse the array exactly once.
+ * Space Complexity: O(N) - In the worst case, we store N-1 elements in the HashMap.
+ */
+
+package arrays_and_hashings;
+
 import java.util.*;
 
 class Solution1{

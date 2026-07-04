@@ -1,3 +1,12 @@
+/**
+ * Problem: 283. Move Zeroes
+ * Approach: Two Pointers (Single-Pass Swap)
+ * Time Complexity: O(N) - We process every element exactly once.
+ * Space Complexity: O(1) - All modifications are made in-place.
+ */
+
+package two_pointers;
+
 class Solution_283 {
     public void moveZeroes(int[] nums) {
 
@@ -23,7 +32,7 @@ class Solution_283 {
 /*
 Brute Force approach
 
-class Solution_283 {
+class two_pointers.Solution_283 {
     public void moveZeroes(int[] nums) {
         int s=0;
         for(int i=0;i<nums.length;i++){

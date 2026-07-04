@@ -1,3 +1,12 @@
+/**
+ * Problem: 136. Single Number
+ * Approach: HashMap
+ * Time Complexity: O(N) - We traverse the array once to populate the map.
+ * Space Complexity: O(N) - In the worst case, we store nearly N elements in the HashMap.
+ */
+
+package arrays_and_hashings;
+
 import java.util.HashMap;
 
 class Solution_136 {

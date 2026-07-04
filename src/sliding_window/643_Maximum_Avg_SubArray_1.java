@@ -1,3 +1,12 @@
+/**
+ * Problem: 643. Maximum Average Subarray I
+ * Approach: Fixed Sliding Window
+ * Time Complexity: O(N) - We do a single pass, adding one element and dropping one element per step.
+ * Space Complexity: O(1) - Only a few integer/double tracking variables are used.
+ */
+
+package sliding_window;
+
 class Solution_643 {
     public double findMaxAverage(int[] nums, int k) {
 

@@ -1,3 +1,12 @@
+/**
+ * Problem: 217. Contains Duplicate
+ * Approach: HashSet
+ * Time Complexity: O(N) - Inserting and checking elements in a HashSet takes O(1) on average.
+ * Space Complexity: O(N) - We may store up to N distinct elements in the HashSet.
+ */
+
+package arrays_and_hashings;
+
 import java.util.HashMap;
 
 class Solution_217 {
