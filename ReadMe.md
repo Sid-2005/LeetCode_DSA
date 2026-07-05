@@ -50,6 +50,7 @@ All solutions are implemented in Java and organized into folders by algorithmic 
 | # | Problem | Pattern / Concept Used | Difficulty | File |
 |:---:|:---|:---|:---:|:---|
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Linked List (Iterative Pointer Reversal) | 🟢 Easy | `206_Reverse_Linked_List.java` |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Linked List (Slow/Fast Pointer) | 🟢 Easy | `876_Middle_of_the_Linked_List.java` |
 
 ## 🧠 Core Patterns Being Mastered
 Currently focusing on mastering these foundational patterns:
