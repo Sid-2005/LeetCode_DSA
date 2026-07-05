@@ -46,6 +46,11 @@ All solutions are implemented in Java and organized into folders by algorithmic 
 |:---:|:---|:---|:---:|:---|
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Binary Search | 🟢 Easy | `704_Binary_Search.java` |
 
+### 📁 `src/linked_list/`
+| # | Problem | Pattern / Concept Used | Difficulty | File |
+|:---:|:---|:---|:---:|:---|
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Linked List (Iterative Pointer Reversal) | 🟢 Easy | `206_Reverse_Linked_List.java` |
+
 ## 🧠 Core Patterns Being Mastered
 Currently focusing on mastering these foundational patterns:
 - **HashMaps & HashSets:** Trading memory for speed to drop O(n²) time complexity down to O(n).
@@ -54,3 +59,4 @@ Currently focusing on mastering these foundational patterns:
 - **Math & Arithmetic Sequences:** Leveraging mathematical formulas to optimize spatial complexity to O(1).
 - **Prefix Sums:** Maintaining a running cumulative total to avoid recalculating overlapping elements.
 - **Binary Search:** Repeatedly halving the search space on sorted data to cut time complexity down to O(log n).
+- **Linked Lists:** Rewiring node pointers in-place (e.g., prev/current/next tracking) to achieve O(1) extra space complexity.
