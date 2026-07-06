@@ -1,65 +1,96 @@
 # 🚀 LeetCode DSA in Java
 
-This repository tracks my daily progress in mastering Data Structures and Algorithms (DSA) through LeetCode. 
-The focus here is on writing clean, efficient, and optimized solutions using Core Java, building the foundational logic needed for robust backend development.
+This repository documents my journey of mastering **Data Structures and Algorithms (DSA)** through LeetCode using **Core Java**.
 
-## 🗂️ Repository Structure
+The primary goal is to develop strong problem-solving skills by learning algorithmic patterns, writing clean and optimized solutions, and building the foundations required for technical interviews and backend development.
 
-All solutions are implemented in Java and organized into folders by algorithmic pattern under `src/`.
+---
+
+## 📂 Repository Structure
+
+All solutions are implemented in **Java** and organized by algorithmic pattern under the `src/` directory.
 
 ### 📁 `src/arrays_and_hashings/`
+
 | # | Problem | Pattern / Concept Used | Difficulty | File |
 |:---:|:---|:---|:---:|:---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays, HashMap | 🟢 Easy | `1_Two_Sum.java` |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Arrays, HashMap | 🟢 Easy | `136_Single_Number.java` |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Arrays, HashMap | 🟢 Easy | `169_Majority_Element.java` |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays, HashSet | 🟢 Easy | `217_Contain_Duplicate.java` |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays, HashSet | 🟢 Easy | `217_Contains_Duplicate.java` |
+
+---
 
 ### 📁 `src/two_pointers/`
+
 | # | Problem | Pattern / Concept Used | Difficulty | File |
 |:---:|:---|:---|:---:|:---|
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Arrays, Two Pointers (Reader/Writer) | 🟢 Easy | `27_Remove_Element.java` |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Arrays, Two Pointers | 🟡 Medium | `167_Two_Sum_II_Input_Array_Sorted.java` |
-| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays, Two Pointers | 🟢 Easy | `283_Moves_Zeros.java` |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Three-Reversal Technique | 🟡 Medium | `189_Rotate_Array.java` |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays, Two Pointers | 🟢 Easy | `283_Move_Zeroes.java` |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Two Pointers, In-Place Manipulation | 🟢 Easy | `344_Reverse_String.java` |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Strings, Two Pointers | 🟢 Easy | `392_Is_Subsequence.java` |
-| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Two Pointers (Reverse) | 🟢 Easy | `844_Backspace_string_compare.java` |
-| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Arrays, Two Pointers | 🟢 Easy | `977_Squares_of_sorted_Array.java` |
+| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Reverse Two Pointers | 🟢 Easy | `844_Backspace_String_Compare.java` |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Arrays, Two Pointers | 🟢 Easy | `977_Squares_of_a_Sorted_Array.java` |
+
+---
+
 ### 📁 `src/sliding_window/`
+
 | # | Problem | Pattern / Concept Used | Difficulty | File |
 |:---:|:---|:---|:---:|:---|
-| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Sliding Window (Fixed) | 🟢 Easy | `643_Maximum_Avg_SubArray_1.java` |
+| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Fixed-Size Sliding Window | 🟢 Easy | `643_Maximum_Average_Subarray_I.java` |
+
+---
 
 ### 📁 `src/prefix_sum/`
+
 | # | Problem | Pattern / Concept Used | Difficulty | File |
 |:---:|:---|:---|:---:|:---|
-| 238 | [Product of Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Prefix & Suffix Product (Two Pass) | 🟡 Medium | `238_Product_Except_Self.java` |
-| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Arrays, Prefix Sum | 🟢 Easy | `1480_Runnning_Sum_of_1d_Array.java` |
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Prefix & Suffix Products (Two Pass) | 🟡 Medium | `238_Product_of_Array_Except_Self.java` |
+| 1480 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Prefix Sum | 🟢 Easy | `1480_Running_Sum_of_1D_Array.java` |
+
+---
 
 ### 📁 `src/math/`
+
 | # | Problem | Pattern / Concept Used | Difficulty | File |
 |:---:|:---|:---|:---:|:---|
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Arrays, Math | 🟢 Easy | `268_Missing_Number.java` |
 
+---
+
 ### 📁 `src/binary_search/`
+
 | # | Problem | Pattern / Concept Used | Difficulty | File |
 |:---:|:---|:---|:---:|:---|
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Binary Search | 🟢 Easy | `704_Binary_Search.java` |
 
+---
+
 ### 📁 `src/linked_list/`
+
 | # | Problem | Pattern / Concept Used | Difficulty | File |
 |:---:|:---|:---|:---:|:---|
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Linked List (Iterative Pointer Reversal) | 🟢 Easy | `206_Reverse_Linked_List.java` |
-| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Linked List (Slow/Fast Pointer) | 🟢 Easy | `876_Middle_of_the_Linked_List.java` |
-| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Linked List (Floyd's Cycle Detection - Slow/Fast Pointer) | 🟢 Easy | `141_Linked_List_Cycle.java` |
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Linked List (In-Place Merge) | 🟢 Easy | `21_Merge_Two_Sorted_Lists.java` |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | In-Place Merge | 🟢 Easy | `21_Merge_Two_Sorted_Lists.java` |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Floyd's Cycle Detection (Slow/Fast Pointers) | 🟢 Easy | `141_Linked_List_Cycle.java` |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Iterative Pointer Reversal | 🟢 Easy | `206_Reverse_Linked_List.java` |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Slow/Fast Pointers | 🟢 Easy | `876_Middle_of_the_Linked_List.java` |
+
+---
 
 ## 🧠 Core Patterns Being Mastered
-Currently focusing on mastering these foundational patterns:
-- **HashMaps & HashSets:** Trading memory for speed to drop O(n²) time complexity down to O(n).
-- **Two Pointers:** Manipulating arrays in-place from both ends to achieve O(1) extra space complexity.
-- **Sliding Window:** Maintaining a dynamic or fixed-size window over a sequential data structure to optimize redundant calculations down to O(n).
-- **Math & Arithmetic Sequences:** Leveraging mathematical formulas to optimize spatial complexity to O(1).
-- **Prefix Sums:** Maintaining a running cumulative total to avoid recalculating overlapping elements.
-- **Binary Search:** Repeatedly halving the search space on sorted data to cut time complexity down to O(log n).
-- **Linked Lists:** Rewiring node pointers in-place (e.g., prev/current/next tracking) to achieve O(1) extra space complexity.
+
+This repository focuses on mastering the most frequently used algorithmic patterns in coding interviews:
+
+- **Hash Maps & Hash Sets** – Reduce brute-force solutions from **O(n²)** to **O(n)** using efficient lookups.
+- **Two Pointers** – Solve array and string problems in-place while maintaining **O(1)** extra space.
+- **Sliding Window** – Optimize subarray and substring problems by maintaining a moving window in **O(n)** time.
+- **Prefix Sums / Prefix Products** – Precompute cumulative values to eliminate redundant calculations.
+- **Binary Search** – Search efficiently on sorted data in **O(log n)** time.
+- **Linked Lists** – Manipulate node pointers in-place using iterative techniques and the slow/fast pointer approach.
+- **Mathematical Techniques** – Apply arithmetic properties and formulas to reduce time or space complexity.
+
+---
+
