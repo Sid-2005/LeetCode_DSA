@@ -52,6 +52,7 @@ All solutions are implemented in Java and organized into folders by algorithmic 
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Linked List (Iterative Pointer Reversal) | 🟢 Easy | `206_Reverse_Linked_List.java` |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Linked List (Slow/Fast Pointer) | 🟢 Easy | `876_Middle_of_the_Linked_List.java` |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Linked List (Floyd's Cycle Detection - Slow/Fast Pointer) | 🟢 Easy | `141_Linked_List_Cycle.java` |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Linked List (In-Place Merge) | 🟢 Easy | `21_Merge_Two_Sorted_Lists.java` |
 
 ## 🧠 Core Patterns Being Mastered
 Currently focusing on mastering these foundational patterns:
