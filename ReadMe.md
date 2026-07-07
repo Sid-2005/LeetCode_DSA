@@ -75,6 +75,7 @@ All solutions are implemented in **Java** and organized by algorithmic pattern u
 |:---:|:---|:---|:---:|:---|
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | In-Place Merge | 🟢 Easy | `21_Merge_Two_Sorted_Lists.java` |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Floyd's Cycle Detection (Slow/Fast Pointers) | 🟢 Easy | `141_Linked_List_Cycle.java` |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Dummy Node & Two Pointers | 🟢 Easy | `203_Remove_Linked_List_Elements.java` |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Iterative Pointer Reversal | 🟢 Easy | `206_Reverse_Linked_List.java` |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Slow/Fast Pointers | 🟢 Easy | `876_Middle_of_the_Linked_List.java` |
 
@@ -89,8 +90,7 @@ This repository focuses on mastering the most frequently used algorithmic patter
 - **Sliding Window** – Optimize subarray and substring problems by maintaining a moving window in **O(n)** time.
 - **Prefix Sums / Prefix Products** – Precompute cumulative values to eliminate redundant calculations.
 - **Binary Search** – Search efficiently on sorted data in **O(log n)** time.
-- **Linked Lists** – Manipulate node pointers in-place using iterative techniques and the slow/fast pointer approach.
+- **Linked Lists (Dummy Nodes)** – Manipulate node pointers safely in-place using dummy nodes and the slow/fast pointer approach.
 - **Mathematical Techniques** – Apply arithmetic properties and formulas to reduce time or space complexity.
 
 ---
-
