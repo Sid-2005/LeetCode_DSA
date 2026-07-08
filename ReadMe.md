@@ -71,14 +71,15 @@ All solutions are implemented in **Java** and organized by algorithmic pattern u
 
 ### 📁 `src/linked_list/`
 
-| # | Problem | Pattern / Concept Used | Difficulty | File |
-|:---:|:---|:---|:---:|:---|
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | In-Place Merge | 🟢 Easy | `21_Merge_Two_Sorted_Lists.java` |
-| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Two Pointers | 🟢 Easy | `83_Remove_Duplicates_from_Sorted_List.java` |
-| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Floyd's Cycle Detection | 🟢 Easy | `141_Linked_List_Cycle.java` |
-| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Dummy Node & Two Pointers | 🟢 Easy | `203_Remove_Linked_List_Elements.java` |
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Iterative Pointer Reversal | 🟢 Easy | `206_Reverse_Linked_List.java` |
-| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Slow/Fast Pointers | 🟢 Easy | `876_Middle_of_the_Linked_List.java` |
+|  #  | Problem                                                                                                 | Pattern / Concept Used                  | Difficulty | File                                         |
+| :-: | :------------------------------------------------------------------------------------------------------ | :-------------------------------------- | :--------: | :------------------------------------------- |
+|  21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                         | In-Place Merge                          |   🟢 Easy  | `21_Merge_Two_Sorted_Lists.java`             |
+|  83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Two Pointers                            |   🟢 Easy  | `83_Remove_Duplicates_from_Sorted_List.java` |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                   | Floyd's Cycle Detection                 |   🟢 Easy  | `141_Linked_List_Cycle.java`                 |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)               | Dummy Node & Two Pointers               |   🟢 Easy  | `203_Remove_Linked_List_Elements.java`       |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                               | Iterative Pointer Reversal              |   🟢 Easy  | `206_Reverse_Linked_List.java`               |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                         | Slow/Fast Pointers, Reverse Second Half |   🟢 Easy  | `234_Palindrome_Linked_List.java`            |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                   | Slow/Fast Pointers                      |   🟢 Easy  | `876_Middle_of_the_Linked_List.java`         |
 
 ---
 
