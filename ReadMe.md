@@ -83,6 +83,14 @@ All solutions are implemented in **Java** and organized by algorithmic pattern u
 
 ---
 
+### 📁 `src/trees/`
+
+|  #  | Problem                                                                                     | Pattern / Concept Used | Difficulty | File                                |
+| :-: | :------------------------------------------------------------------------------------------ | :---------------------- | :--------: | :----------------------------------- |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Tree DFS (Recursion)    |   🟢 Easy  | `104_Maximum_Depth_of_Binary_Tree.java` |
+
+---
+
 ## 🧠 Core Patterns Being Mastered
 
 This repository focuses on mastering the most frequently used algorithmic patterns in coding interviews:
@@ -93,6 +101,7 @@ This repository focuses on mastering the most frequently used algorithmic patter
 - **Prefix Sums / Prefix Products** – Precompute cumulative values to eliminate redundant calculations.
 - **Binary Search** – Search efficiently on sorted data in **O(log n)** time.
 - **Linked Lists** – Manipulate node pointers safely in-place using techniques like Dummy Nodes and the Slow/Fast Pointer approach.
+- **Trees** – Traverse and compute properties of binary trees recursively (DFS), breaking each problem into smaller subtree problems.
 - **Mathematical Techniques** – Apply arithmetic properties and formulas to reduce time or space complexity.
 
 ---
