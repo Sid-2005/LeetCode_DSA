@@ -49,6 +49,7 @@ All solutions are implemented in **Java** and organized by algorithmic pattern u
 | # | Problem | Pattern / Concept Used | Difficulty | File |
 |:---:|:---|:---|:---:|:---|
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Prefix & Suffix Products (Two Pass) | 🟡 Medium | `238_Product_of_Array_Except_Self.java` |
+| 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | Prefix Sum | 🟢 Easy | `303_Range_Sum_Query_Immutable.java` |
 | 1480 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Prefix Sum | 🟢 Easy | `1480_Running_Sum_of_1D_Array.java` |
 
 ---
