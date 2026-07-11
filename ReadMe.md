@@ -89,6 +89,7 @@ All solutions are implemented in **Java** and organized by algorithmic pattern u
 |  #  | Problem                                                                                     | Pattern / Concept Used | Difficulty | File                                |
 | :-: | :------------------------------------------------------------------------------------------ | :---------------------- | :--------: | :----------------------------------- |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Tree DFS (Recursion)    |   🟢 Easy  | `104_Maximum_Depth_of_Binary_Tree.java` |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Tree DFS (Recursion)    |   🟢 Easy  | `111_Minimum_Depth_of_Binary_Tree.java` |
 
 ---
 
