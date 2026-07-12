@@ -86,10 +86,11 @@ All solutions are implemented in **Java** and organized by algorithmic pattern u
 
 ### 📁 `src/trees/`
 
-|  #  | Problem                                                                                     | Pattern / Concept Used | Difficulty | File                                |
-| :-: | :------------------------------------------------------------------------------------------ | :---------------------- | :--------: | :----------------------------------- |
-| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Tree DFS (Recursion)    |   🟢 Easy  | `104_Maximum_Depth_of_Binary_Tree.java` |
-| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Tree DFS (Recursion)    |   🟢 Easy  | `111_Minimum_Depth_of_Binary_Tree.java` |
+|  #  | Problem                                                                                     | Pattern / Concept Used  | Difficulty | File                                |
+| :-: | :------------------------------------------------------------------------------------------ | :----------------------- | :--------: | :----------------------------------- |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/)                                       | Tree DFS (Two Pointers)  |   🟢 Easy  | `100_Same_Tree.java`                    |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Tree DFS (Recursion)     |   🟢 Easy  | `104_Maximum_Depth_of_Binary_Tree.java` |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Tree DFS (Recursion)     |   🟢 Easy  | `111_Minimum_Depth_of_Binary_Tree.java` |
 
 ---
 
