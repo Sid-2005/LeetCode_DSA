@@ -27,6 +27,7 @@ All solutions are implemented in **Java** and organized by algorithmic pattern u
 |:---:|:---|:---|:---:|:---|
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Sorting, Two Pointers | 🟡 Medium | `16_3Sum_Closest.java` |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Arrays, Two Pointers (Reader/Writer) | 🟢 Easy | `27_Remove_Element.java` |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Three Pointers (Dutch National Flag) | 🟡 Medium | `75_Sort_Colors.java` |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Arrays, Two Pointers | 🟡 Medium | `167_Two_Sum_II_Input_Array_Sorted.java` |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Three-Reversal Technique | 🟡 Medium | `189_Rotate_Array.java` |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays, Two Pointers | 🟢 Easy | `283_Move_Zeroes.java` |
