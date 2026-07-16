@@ -18,6 +18,7 @@ All solutions are implemented in **Java** and organized by algorithmic pattern u
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Arrays, HashMap | 🟢 Easy | `136_Single_Number.java` |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Arrays, HashMap | 🟢 Easy | `169_Majority_Element.java` |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays, HashSet | 🟢 Easy | `217_Contains_Duplicate.java` |
+| 2022 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | Arrays, Simulation | 🟢 Easy | `2022_Convert_1D_Array_Into_2D_Array.java` |
 
 ---
 
