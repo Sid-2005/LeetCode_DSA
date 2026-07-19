@@ -15,6 +15,7 @@ All solutions are implemented in **Java** and organized by algorithmic pattern u
 | # | Problem | Pattern / Concept Used | Difficulty | File |
 |:---:|:---|:---|:---:|:---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays, HashMap | 🟢 Easy | `1_Two_Sum.java` |
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Arrays, Matrix, State Tracking | 🟡 Medium | `73_Set_Matrix_Zeroes.java` |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Arrays, HashMap | 🟢 Easy | `136_Single_Number.java` |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Arrays, HashMap | 🟢 Easy | `169_Majority_Element.java` |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays, HashSet | 🟢 Easy | `217_Contains_Duplicate.java` |
