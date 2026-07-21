@@ -79,6 +79,7 @@ All solutions are implemented in **Java** and organized by algorithmic pattern u
 
 |  #  | Problem                                                                                                 | Pattern / Concept Used                  | Difficulty | File                                         |
 | :-: | :------------------------------------------------------------------------------------------------------ | :-------------------------------------- | :--------: | :------------------------------------------- |
+|  19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)     | Fast & Slow Pointers, Dummy Node        |   🟡 Medium | `19_Remove_Nth_Node_From_End_of_List.java`   |
 |  21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                         | In-Place Merge                          |   🟢 Easy  | `21_Merge_Two_Sorted_Lists.java`             |
 |  83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Two Pointers                            |   🟢 Easy  | `83_Remove_Duplicates_from_Sorted_List.java` |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                   | Floyd's Cycle Detection                 |   🟢 Easy  | `141_Linked_List_Cycle.java`                 |
