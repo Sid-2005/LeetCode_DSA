@@ -45,6 +45,7 @@ All solutions are implemented in **Java** and organized by algorithmic pattern u
 
 | # | Problem | Pattern / Concept Used | Difficulty | File |
 |:---:|:---|:---|:---:|:---|
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Dynamic Sliding Window / State Tracking | 🟢 Easy | [`485_Max_Consecutive_Ones.java`](src/sliding_window/485_Max_Consecutive_Ones.java) |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Fixed-Size Sliding Window | 🟢 Easy | [`643_Maximum_Average_Subarray_I.java`](src/sliding_window/643_Maximum_Average_Subarray_I.java) |
 
 ---
