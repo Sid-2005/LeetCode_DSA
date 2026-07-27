@@ -45,12 +45,14 @@ All solutions are implemented in **Java** and organized by algorithmic pattern u
 
 | # | Problem | Pattern / Concept Used | Difficulty | File |
 |:---:|:---|:---|:---:|:---|
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Dynamic Sliding Window | 🟡 Medium | [`209_Minimum_Size_Subarray_Sum.java`](src/sliding_window/209_Minimum_Size_Subarray_Sum.java) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Dynamic Sliding Window / State Tracking | 🟢 Easy | [`485_Max_Consecutive_Ones.java`](src/sliding_window/485_Max_Consecutive_Ones.java) |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Fixed-Size Sliding Window | 🟢 Easy | [`643_Maximum_Average_Subarray_I.java`](src/sliding_window/643_Maximum_Average_Subarray_I.java) |
 | 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Fixed-Size Sliding Window | 🟡 Medium | [`1343_Number_of_Sub_arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold.java`](src/sliding_window/1343_Number_of_Sub_arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold.java) |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | Fixed-Size Sliding Window (Direct Comparison) | 🟢 Easy | [`1876_Substrings_of_Size_Three_with_Distinct_Characters.java`](src/sliding_window/1876_Substrings_of_Size_Three_with_Distinct_Characters.java) |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | Fixed-Size Sliding Window | 🟢 Easy | [`2379_Minimum_Recolors_to_Get_K_Consecutive_Black_Blocks.java`](src/sliding_window/2379_Minimum_Recolors_to_Get_K_Consecutive_Black_Blocks.java) |
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | Fixed-Size Sliding Window, HashMap (Frequency Count) | 🟡 Medium | [`2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.java`](src/sliding_window/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.java) |
+
 ---
 
 ### 📁 `src/prefix_sum/`
