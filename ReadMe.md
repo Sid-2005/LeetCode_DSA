@@ -29,6 +29,7 @@ All solutions are implemented in **Java** and organized by algorithmic pattern u
 | # | Problem | Pattern / Concept Used | Difficulty | File |
 |:---:|:---|:---|:---:|:---|
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Sorting, Two Pointers | 🟡 Medium | [`16_3Sum_Closest.java`](src/two_pointers/16_3Sum_Closest.java) |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Arrays, Two Pointers (Reader/Writer) | 🟢 Easy | [`26_Remove_Duplicates_from_Sorted_Array.java`](src/two_pointers/26_Remove_Duplicates_from_Sorted_Array.java) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Arrays, Two Pointers (Reader/Writer) | 🟢 Easy | [`27_Remove_Element.java`](src/two_pointers/27_Remove_Element.java) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Three Pointers (Dutch National Flag) | 🟡 Medium | [`75_Sort_Colors.java`](src/two_pointers/75_Sort_Colors.java) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Arrays, Two Pointers | 🟡 Medium | [`167_Two_Sum_II_Input_Array_Sorted.java`](src/two_pointers/167_Two_Sum_II_Input_Array_Sorted.java) |
