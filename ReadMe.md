@@ -110,6 +110,14 @@ All solutions are implemented in **Java** and organized by algorithmic pattern u
 
 ---
 
+### 📁 `src/stacks/`
+
+|  #  | Problem | Pattern / Concept Used  | Difficulty | Complexity (T / S) | File |
+| :-: | :---| :--- | :---: | :---: | :--- |
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Monotonic Stack, HashMap | 🟢 Easy | `O(N + M)` / `O(N)` | [`496_Next_Greater_Element_I.java`](src/stacks/496_Next_Greater_Element_I.java) |
+
+---
+
 ## 🧠 Core Patterns Being Mastered
 
 This repository focuses on mastering the most frequently used algorithmic patterns in coding interviews:
@@ -121,4 +129,5 @@ This repository focuses on mastering the most frequently used algorithmic patter
 - **Binary Search** – Search efficiently on sorted data in **O(log n)** time.
 - **Linked Lists** – Manipulate node pointers safely in-place using techniques like Dummy Nodes and the Slow/Fast Pointer approach.
 - **Trees** – Traverse and compute properties of binary trees recursively (DFS), breaking each problem into smaller subtree problems.
+- **Stacks** – Track elements in a Last-In-First-Out (LIFO) order, specifically using Monotonic Stacks to efficiently find next/previous greater or smaller elements.
 - **Mathematical Techniques** – Apply arithmetic properties and formulas to reduce time or space complexity.
