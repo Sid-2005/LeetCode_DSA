@@ -11,7 +11,7 @@ recognizing the pattern cold is part of the exercise. Look the problem up by num
 
 | Problem # | Last Solved | Next Review | Status | Stage | Notes |
 |:---:|:---:|:---:|:---:|:---:|:---|
-| 1 | 10-08-2026 | 17-08-2026 | 🟢 | 🔁 | |
+| 1 | 17-08-2026 | 16-09-2026 | 🟢 | 📗 | |
 | 16 | 14-07-2026 | 17-07-2026 | 🔴 | 🆕 | |
 | 19 | 21-07-2026 | 24-07-2026 | 🔴 | 🆕 | |
 | 21 | 06-07-2026 | 09-07-2026 | 🔴 | 🆕 | |
