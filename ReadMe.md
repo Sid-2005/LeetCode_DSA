@@ -116,6 +116,7 @@ All solutions are implemented in **Java** and organized by algorithmic pattern u
 | :-: | :---| :--- | :---: | :---: | :--- |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Monotonic Stack, HashMap | 🟢 Easy | `O(N + M)` / `O(N)` | [`496_Next_Greater_Element_I.java`](src/stacks/496_Next_Greater_Element_I.java) |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Monotonic Stack | 🟡 Medium | `O(N)` / `O(N)` | [`739_Daily_Temperatures.java`](src/stacks/739_Daily_Temperatures.java) |
+| 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Monotonic Stack (int[]) | 🟡 Medium | `O(1)` (Amortized) / `O(N)` | [`901_Online_Stock_Span.java`](src/stacks/901_Online_Stock_Span.java) |
 
 ---
 
